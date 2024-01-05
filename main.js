@@ -27,8 +27,30 @@ pcComponent.unshift("multiplug");
 console.log(pcComponent);
 console.log(pcComponent.indexOf("ups"));
 
+/*
+
+    
+Operator	Description
++	Addition
+-	Subtraction
+*	Multiplication
+**	Exponentiation (ES2016)
+/	Division
+%	Modulus (Division Remainder)
+++	Increment
+--	Decrement
+
+*/
 
 
+let x = 5;
+let y = 10;
 
+let addition = x + y;
+let subtraction = y - x;
+let multiplication = x * y;
+let division = y / x;
 
+console.log("addition: ", addition, "subtraction: ", subtraction, "multiplication: ", multiplication, "division: ", division);
 
+ 
