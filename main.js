@@ -50,7 +50,7 @@ let addition = x + y;
 let subtraction = y - x;
 let multiplication = x * y;
 let division = y / x;
+let remainder = y % x;
 
-console.log("addition: ", addition, "subtraction: ", subtraction, "multiplication: ", multiplication, "division: ", division);
+console.log("addition: ", addition, "subtraction: ", subtraction, "multiplication: ", multiplication, "division: ", division, "remainder", remainder);
 
- 
