@@ -54,3 +54,7 @@ let remainder = y % x;
 
 console.log("addition: ", addition, "subtraction: ", subtraction, "multiplication: ", multiplication, "division: ", division, "remainder", remainder);
 
+let text1 = "A";
+let text2 = "B";
+let result = text1 > text2;
+console.log(result);
