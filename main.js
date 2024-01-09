@@ -91,3 +91,10 @@ Operator	Example	Same As
 ??=	x ??= y	x = x ?? (x = y)
 
 */
+
+
+let value1 = 5;
+let value2 = 10;
+
+let additionOfValue = value1 + value2;
+console.log(additionOfValue);
