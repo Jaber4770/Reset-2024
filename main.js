@@ -98,3 +98,4 @@ let value2 = 10;
 
 let additionOfValue = value1 + value2;
 console.log(additionOfValue);
+console.log(additionOfValue);
